@@ -1,0 +1,54 @@
+.container {
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 20px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+	text-align: center;
+	background-image: url("Temreture.jpeg");
+	background-repeat: no-repeat;
+	background-size: 720px;
+}
+.container{
+    width:40%;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.406) 0px 22px 70px 4px;
+}
+
+h2 {
+	margin-top: 0;
+}
+
+label,select,input[type="number"] {
+	display: block;
+	margin-bottom: 0px;
+	border-color: rgb(4, 255, 0);
+
+    
+}
+
+
+input[type="text"] {
+	font-size: 1.2em;
+	font-weight: bold;
+	padding: 5px;
+	text-align:center;
+	border-color: #07d86c;
+
+}
+
+button {
+	background-color: #af615c;
+	color: white;
+	border: none;
+	border-radius: 10px;
+	padding: 10px;
+	cursor: pointer;
+	
+}
+
+button:hover {
+	background-color: #538e3e;
+}
+
+
